@@ -1,6 +1,6 @@
 {
-  "name": "FishLog",
-  "short_name": "FishLog",
+  "name": "Thalweg",
+  "short_name": "Thalweg",
   "description": "AI-Powered Fishing Companion",
   "start_url": "/",
   "display": "standalone",

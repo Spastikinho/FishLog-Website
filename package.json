@@ -1,8 +1,8 @@
 {
-  "name": "fishlog-website",
+  "name": "thalweg-website",
   "type": "module",
   "version": "1.0.0",
-  "description": "FishLog - Your AI-Powered Fishing Companion landing page",
+  "description": "Thalweg - Your AI-Powered Fishing Companion landing page",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
